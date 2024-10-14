@@ -15,3 +15,22 @@ de mandar para o github.
 
 5. Por último enviar as alterações feitas para o github
  >git push origin main
+
+---------------------------------------------------------------
+
+Agora vamos ter mais código
+
+1. Use o checkout para ir para outra branch, se for criar uma nova branch
+use o -b e depois o nome da branch
+ > git checkout -b dev
+
+2. Tem o branch para ver todas as branchs
+ > git branch
+
+3. Para poder fundir duas brenchs, use o merge na brench principal e digite
+o nome da brench que vai ser adicionada a principal
+ > git merge dev
+
+4. Por último, use o get clone e o link do repositório para clonar 
+tudo caso perda seus dados.
+ > git clone http... 
