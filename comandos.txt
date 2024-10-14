@@ -1,0 +1,17 @@
+Esse aqui é a lista de comandos na ordem a se usar
+
+1. Iniciar dentro de um repositório
+ >git init
+
+2. Depois você pode conectar sua rede do GitHub
+ >git remote add oringin "link do repo"
+
+3. E ai começa adicionar as alterações para comitar depois
+ >git add .
+
+4. E por último você pode usar o commit para salvar as alterações antes
+de mandar para o github.
+ >git commit -m "Escrever aqui a mensagem do commit"
+
+5. Por último enviar as alterações feitas para o github
+ >git push origin main
