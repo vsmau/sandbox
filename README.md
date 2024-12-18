@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<a href=""><img src="https://media.discordapp.net/attachments/1302025525421936740/1318950951230505030/Captura_de_tela_2024-12-18_102723.png?ex=6764304b&is=6762decb&hm=5138d3c2bd55f64d211d8ab46accdbf68ae3d0b209422c666dda91c9e228ce78&=&format=webp&quality=lossless&width=1279&height=636" title="Gabriel" width="1012" height="503"></a>
+<a href=""><img src="https://media.discordapp.net/attachments/1302025525421936740/1318950951230505030/Captura_de_tela_2024-12-18_102723.png?ex=6764304b&is=6762decb&hm=5138d3c2bd55f64d211d8ab46accdbf68ae3d0b209422c666dda91c9e228ce78&=&format=webp&quality=lossless" title="Gabriel" width="1012" height="503"></a>
 </div>
 
 ## Sistema de Gerenciamento de entregas Delivery. 
