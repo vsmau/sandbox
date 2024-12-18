@@ -19,7 +19,7 @@
 
 > __Sobre o modelo, utilizamos relacionamento  bidirecional entre três entidades de pedido e produto além da de usuário onde é identificado e autenticado  o cliente usando o JWT.__
 >
-> <a href=""><img src="https://cdn.discordapp.com/attachments/1311368628448530483/1318564358527385660/image.png?ex=676419c0&is=6762c840&hm=b6bb4243cbdd2c4da9c14298f13ab1abceb68170af22453a690dae198db9a46b&" title="DER" width="600"></a>
+> <a href=""><img src="https://cdn.discordapp.com/attachments/1311368628448530483/1318564358527385660/image.png?ex=676419c0&is=6762c840&hm=b6bb4243cbdd2c4da9c14298f13ab1abceb68170af22453a690dae198db9a46b&" title="DER" width="1012" height="503"></a>
 >
 > *DER AiCRUD*
 
