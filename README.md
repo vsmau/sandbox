@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<a href=""><img src="https://media.discordapp.net/attachments/1302025525421936740/1318950951230505030/Captura_de_tela_2024-12-18_102723.png?ex=6764304b&is=6762decb&hm=5138d3c2bd55f64d211d8ab46accdbf68ae3d0b209422c666dda91c9e228ce78&=&format=webp&quality=lossless&width=1279&height=636" title="Gabriel" width="600" height=""></a>
+<a href=""><img src="https://media.discordapp.net/attachments/1302025525421936740/1318950951230505030/Captura_de_tela_2024-12-18_102723.png?ex=6764304b&is=6762decb&hm=5138d3c2bd55f64d211d8ab46accdbf68ae3d0b209422c666dda91c9e228ce78&=&format=webp&quality=lossless&width=1279&height=636" title="Gabriel" width="1012" height="503"></a>
 </div>
 
 ## Sistema de Gerenciamento de entregas Delivery. 
@@ -19,7 +19,7 @@
 
 > __Sobre o modelo, utilizamos relacionamento  bidirecional entre três entidades de pedido e produto além da de usuário onde é identificado e autenticado  o cliente usando o JWT.__
 >
-> <a href=""><img src="https://cdn.discordapp.com/attachments/1311368628448530483/1318564358527385660/image.png?ex=676419c0&is=6762c840&hm=b6bb4243cbdd2c4da9c14298f13ab1abceb68170af22453a690dae198db9a46b&" title="DER" width="1012" height="503"></a>
+> <a href=""><img src="https://cdn.discordapp.com/attachments/1311368628448530483/1318564358527385660/image.png?ex=676419c0&is=6762c840&hm=b6bb4243cbdd2c4da9c14298f13ab1abceb68170af22453a690dae198db9a46b&" title="DER" width="600"></a>
 >
 > *DER AiCRUD*
 
